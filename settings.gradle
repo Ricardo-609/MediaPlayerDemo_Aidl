@@ -1,0 +1,3 @@
+include ':MediaService'
+include ':MediaClient'
+rootProject.name = "MediaPlayerDemo_Aidl"
